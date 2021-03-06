@@ -1,7 +1,7 @@
 # build-simple-docker-container
 
 ## demo
-[](https://youtu.be/bp8AXeAzQls)
+[![](http://img.youtube.com/vi/bp8AXeAzQls/0.jpg)](https://youtu.be/bp8AXeAzQls "Build Docker Container Project")
 
 ## build the image
 '''docker build -t nlp .'''
